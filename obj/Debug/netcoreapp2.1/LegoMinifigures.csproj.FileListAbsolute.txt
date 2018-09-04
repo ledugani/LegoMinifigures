@@ -1,0 +1,11 @@
+c:\users\student\source\repos\LegoMinifigures\LegoMinifigures\obj\Debug\netcoreapp2.1\LegoMinifigures.csprojAssemblyReference.cache
+c:\users\student\source\repos\LegoMinifigures\LegoMinifigures\obj\Debug\netcoreapp2.1\LegoMinifigures.csproj.CoreCompileInputs.cache
+c:\users\student\source\repos\LegoMinifigures\LegoMinifigures\obj\Debug\netcoreapp2.1\LegoMinifigures.AssemblyInfoInputs.cache
+c:\users\student\source\repos\LegoMinifigures\LegoMinifigures\obj\Debug\netcoreapp2.1\LegoMinifigures.AssemblyInfo.cs
+c:\users\student\source\repos\LegoMinifigures\LegoMinifigures\bin\Debug\netcoreapp2.1\LegoMinifigures.deps.json
+c:\users\student\source\repos\LegoMinifigures\LegoMinifigures\bin\Debug\netcoreapp2.1\LegoMinifigures.runtimeconfig.json
+c:\users\student\source\repos\LegoMinifigures\LegoMinifigures\bin\Debug\netcoreapp2.1\LegoMinifigures.runtimeconfig.dev.json
+c:\users\student\source\repos\LegoMinifigures\LegoMinifigures\bin\Debug\netcoreapp2.1\LegoMinifigures.dll
+c:\users\student\source\repos\LegoMinifigures\LegoMinifigures\bin\Debug\netcoreapp2.1\LegoMinifigures.pdb
+c:\users\student\source\repos\LegoMinifigures\LegoMinifigures\obj\Debug\netcoreapp2.1\LegoMinifigures.dll
+c:\users\student\source\repos\LegoMinifigures\LegoMinifigures\obj\Debug\netcoreapp2.1\LegoMinifigures.pdb
