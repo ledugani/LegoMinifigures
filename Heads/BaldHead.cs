@@ -4,19 +4,26 @@ using System.Text;
 
 namespace LegoMinifigures.Heads
 {
-    class BaldHead
+    class BaldHead : Head
     {
-        public bool HasHair { get { return false; } }
+        private readonly string _name;
+
+        public override bool HasHair { get { return false; } }
         public int SmoothnessLevel { get; set; }
 
-        public void Talk()
+        public BaldHead(string name)
         {
-            Console.WriteLine("Hi, I'm Bob!");
+            _name = name;
         }
 
-        public void Eat()
+        public override void Talk()
         {
-            Console.WriteLine("*Eats a sandwich*");
+            Console.WriteLine($"Hi, I'm {_name}!");
+        }
+
+        public override void Eat()
+        {
+            Console.WriteLine("*Eats a burrito*");
         }
     }
 }
